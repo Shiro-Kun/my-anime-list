@@ -1,2 +1,5 @@
 # my-anime-list
-make web for my anime list
+
+Click below to see live web version
+
+http://Shiro-Kun.github.io/MyWeb/
